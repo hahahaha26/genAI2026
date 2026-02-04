@@ -19,4 +19,3 @@ generate some questions for me to discuss with my teacher and peer
 courses/UCLC1008/materials/course materials in MD/Sample Academic Writing Quiz.md review again and count the  word length of the two excerpts (excluding abstract) 
 also count courses/UCLC1008/AIagentDemo/MockPractice/practice1.md to compare
 generate wordCountSampleQuiz.md in courses/UCLC1008/AIagentDemo/MockPractice
-

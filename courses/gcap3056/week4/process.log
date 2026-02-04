@@ -1,0 +1,73 @@
+# Process log — courses/gcap3056/week4
+
+**Purpose:** Document what is being done in week 4 preparation, including chat history and all changes made to the codebase.
+
+**Date:** 4 Feb 2026 (Wednesday)
+
+---
+
+## 1. Chat history summary
+
+### Session 1 (earlier)
+
+- **User:** Referenced `courses/gcap3056/week4/revise.md`.
+- **Action:** Read `revise.md` (three tasks: Approach, searchPlan, Rundown; all following `AIresponseGuideline.md`). Read guideline, `approachDraft.md`, `planRundownDraft.md`, Assessment folder, week4 folder, `week4Look4focus.md`, `CommunityPortfolioReportGuide.md`, `ReflectiveLearningJournalGuide.md`.
+- **Deliverable 1:** Created `Approach.md` from `approachDraft.md`, describing overall course approach and linking to Assessment.
+- **User:** Approach OK but move “week 4 focus” to rundown; Approach should focus on how to pursue a project. Revise Approach.md and do Task 2.
+- **Action:** Revised `Approach.md` (removed “Week 4 focus” section; retitled to “how to pursue a project”; removed week-4-specific bullet from assessment link). Created `searchPlan.md` (how AI may perform web searches; process + results; link to Task 4.1 and Assessment; example with Code on Access to Information search and links/summaries).
+
+### Session 2 (this session)
+
+- **User:** Go ahead. In Rundown also list all 5 projects (we’ll cover each). Add task 4.3 about AI agent (ensure students understand what AI agent is capable of). Create `process.log` in `courses/gcap3056/week4` to document everything (including earlier chat) and track all changes made to the codebase today.
+- **Action:** Created `Rundown.md` from `planRundownDraft.md` with: week 4 plan (showcase search then hypotheses/questions); list of projects (all six group projects from repo, table); Task 4.1, 4.2, 4.3 (AI agent — capabilities and limits); recap, tasks 3.1/3.2, workflow. Created this `process.log`.
+
+---
+
+## 2. Changes to the codebase today (4 Feb 2026)
+
+| Time / order | Path | Change |
+|--------------|------|--------|
+| 1 | `courses/gcap3056/week4/Approach.md` | **Created.** Overall approach: how to pursue a project; value principles; project workflow; link to assessment. (Later revised.) |
+| 2 | `courses/gcap3056/week4/Approach.md` | **Revised.** Removed “Week 4 focus” section; renamed “Project workflow” to “How to pursue the project”; folded hypotheses, letter to editor, Code on Access into that section; removed “Week 4 tasks” from assessment link. Focus: how to pursue a project only. |
+| 3 | `courses/gcap3056/week4/searchPlan.md` | **Created.** Search plan: role of web search; scope (programme, decisions, stakeholders, gov.hk, LegCo, media, Code); how AI can search and what to document; link to Task 4.1/4.2 and assessment; example (Code on Access to Information query with process + results + links/summaries). |
+| 4 | `courses/gcap3056/week4/Rundown.md` | **Created.** Week 4 rundown: recap and shared summary; remind Task 3.1/3.2; list of all projects (6: LegCo data, Fire 1, Gov app, Fire 2, Sexual harassment, Rare disease); Task 4.1 (review AI search); Task 4.2 (hypotheses and questions); Task 4.3 (AI agent — what it is capable of); workflow; agenda order. |
+| 5 | `courses/gcap3056/week4/process.log` | **Created.** This file. Documents chat history and all codebase changes above. |
+| 6 | `courses/gcap3056/group1-legco-data-access/planNextSteps.md` | **Created.** Plan for next steps (workflow, AI vs human, references) towards group6-like progress. |
+| 7 | `courses/gcap3056/group2-fire-service-1/planNextSteps.md` | **Created.** Same structure, tailored to Fire Service 1. |
+| 8 | `courses/gcap3056/group3-government-app/planNextSteps.md` | **Created.** Same structure, tailored to Government Vacancies App. |
+| 9 | `courses/gcap3056/group4-fire-service-2/planNextSteps.md` | **Created.** Same structure, tailored to Fire Service 2. |
+| 10 | `courses/gcap3056/group5-prevent-sexual-harassment/planNextSteps.md` | **Created.** Same structure, tailored to Prevent Sexual Harassment. |
+| 11 | `courses/gcap3056/groupX eHealth/planNextSteps.md` | **Created.** Same structure, tailored to eHealth (insurance reimbursement, SCMP letters, Simon Wang). |
+| 12 | `courses/gcap3056/week4/process.log` | **Updated.** Added planforAllgroups session and changes 6–12. |
+
+---
+
+## 3. Files in week4 (after today)
+
+- `Approach.md` — overall approach: how to pursue a project (no week-4-specific content).
+- `approachDraft.md` — original draft (unchanged).
+- `planRundownDraft.md` — original draft (unchanged).
+- `revise.md` — task list (unchanged).
+- `searchPlan.md` — how AI may perform web searches; process and results; example.
+- `week4Look4focus.md` — week 4 focus notes (unchanged).
+- `Rundown.md` — week 4 rundown (new).
+- `process.log` — this log (new).
+- `planforAllgroups.md` — instructions for planNextSteps for all groups (unchanged).
+
+---
+
+## 4. References used
+
+- `courses/gcap3056/CourseInfo/Assessment/AIresponseGuideline.md`
+- `courses/gcap3056/CourseInfo/Assessment/CommunityPortfolioReportGuide.md`
+- `courses/gcap3056/CourseInfo/Assessment/ReflectiveLearningJournalGuide.md`
+- `courses/gcap3056/week4/approachDraft.md`, `planRundownDraft.md`, `week4Look4focus.md`, `revise.md`
+- `courses/gcap3056/week1/Report.md` (group project options)
+- `courses/gcap3056/week3/transcriptLecture/summaryInsight.md` (AI agent session)
+- Group folders `group1-legco-data-access` … `group6-rare-disease` and their `public-info.md` for project titles/overviews.
+
+### Later session (planforAllgroups)
+
+- **User:** Referenced `courses/gcap3056/week4/planforAllgroups.md`.
+- **Content:** More work done for group6-rare-disease (see process.log and files); progress in other teams varies; create a planNextSteps.md for each project in each project folder to describe workflow towards similar progress as group6; cover when to get help from AI and for what, what human input is essential, how human and AI work together; update week4 process.log.
+- **Action:** Created `planNextSteps.md` in each project folder: group1-legco-data-access, group2-fire-service-1, group3-government-app, group4-fire-service-2, group5-prevent-sexual-harassment, groupX eHealth. Each plan includes: current state (what that group has), target progress (7-step workflow: curate → focus → search plan → AI web search + report → hypotheses → questions for government → process log), when to get AI help, what human input is essential, how human and AI work together, references to group6 and week4. Updated this process.log.

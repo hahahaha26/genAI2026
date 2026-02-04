@@ -1,0 +1,43 @@
+# Process log — group6-rare-disease
+
+**Purpose:** Track what has been done and what will be done for this project.
+
+**Project:** Healthcare support for patients with rare diseases in Hong Kong (solo/Group 6). Current focus: Mainland procurement vs independent drug regime.
+
+---
+
+## 1. What has been done
+
+- **Folder review:** Listed `courses/gcap3056/group6-rare-disease` and identified all files (public-info.md, hypotheses.md, searchPlan.md, search4focus.md, summary2Feb.md, moreDocs.md, fetchGoogleDoc.md, chatHistory01.md, task3.1-instructions.md, task3.2-instructions.md).
+- **Key files read:** `public-info.md` (overview, research questions, sources), `hypotheses.md` (potential focus + options B–E), `searchPlan.md` (instructions for AI web search and AIsearchReport.md).
+- **Summary produced:** Overview of folder contents, project state (focus on Mainland procurement; gap: many docs dated; searchPlan asks for new web searches and AIsearchReport), and options for next steps.
+- **This file:** Created `process.log` to document what was done and what will be done.
+
+---
+
+## 2. What will be done
+
+1. ~~**Create `AIwebsearch` folder** under `courses/gcap3056/group6-rare-disease` (per searchPlan.md).~~ **Done.**
+2. ~~**Perform web searches**~~ and ~~**Generate `AIsearchReport.md`**~~ **Done.** (See section 3.)
+3. **Optional next:** Perform web searches for more info on rare disease care in Hong Kong (e.g. follow-up from gaps):
+   - Domains: gov.hk, SCMP.com, major media; site-specific and general as needed.
+   - Topics: rare disease policy, HA drug procurement, Mainland/HK drug cooperation, SMA/drug subsidies, “1+” mechanism, recent developments.
+3. **Optional next:** Further web searches if needed (e.g. gaps in AIsearchReport.md: international comparisons, HA feasibility assessments, 2025 LegCo Q&As).
+4. ~~**Update this process.log** after the search and report are completed.~~ **Done.**
+
+---
+
+## 3. Real-time log (Step 1: AIwebsearch + AIsearchReport)
+
+- **Started:** Creating `AIwebsearch` folder and running web searches for rare disease care in HK (gov.hk, SCMP, media). Will generate `AIwebsearch/AIsearchReport.md` and update this log when done.
+- **Searches run:** 7 queries (general + site-specific gov.hk, scmp.com): HK rare disease policy HA 2024–25; site:gov.hk rare disease drug; site:scmp.com HK rare disease SMA 2024; HA drug procurement Mainland China 2024; HK "1+" mechanism drug registration rare disease; HK rare disease Nusinersen subsidy age limit LegCo; HK patients buy drugs Mainland cheaper GBA 2024.
+- **Completed:** Created `AIwebsearch` folder. Generated `AIwebsearch/AIsearchReport.md` with: (1) table of searches performed (keywords, domain, type, tool); (2) 12 items with title, URL, summary, and relevance to project focus (Mainland procurement vs independent regime; options B/C where applicable); (3) gaps and follow-up; (4) references. Step 1 done.
+
+---
+
+## 4. References
+
+- **Instructions:** `courses/gcap3056/group6-rare-disease/searchPlan.md`
+- **Guideline:** `courses/gcap3056/CourseInfo/Assessment/AIresponseGuideline.md`
+- **Focus & hypotheses:** `courses/gcap3056/group6-rare-disease/hypotheses.md`
+- **Existing info:** `courses/gcap3056/group6-rare-disease/summary2Feb.md`, `public-info.md`, `moreDocs.md`
