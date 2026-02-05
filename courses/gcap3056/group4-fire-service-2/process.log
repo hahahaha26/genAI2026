@@ -1,0 +1,15 @@
+```log
+# group4-fire-service-2 — process.log
+
+2026-02-05 06:44 UTC — Start
+
+- Reviewed `courses/gcap3056/ProjectMetaDirector/searchExpectations.md` and ProjectMetaDirector/process.log for format and expectations.
+- Attempted automated reachability checks for core sources (HKFSD, RTHK, info.gov.hk, HK01, SCMP). HKFSD, RTHK, info.gov.hk and HK01 responded; SCMP returned 403.
+- Note: The environment's terminal/network tooling produced a filesystem/provider error when attempting full page fetches; live scraping did not complete in this session.
+- Action taken: Created `reportMediaCoverage.md` (template + search plan) at `courses/gcap3056/group4-fire-service-2/reportMediaCoverage.md` so the team can fill verified article metadata when network access is available.
+
+Next steps:
+- Run the recommended `curl`/site-search commands to gather article titles, dates and URLs, then populate `reportMediaCoverage.md` with 5–8 verified items.
+- If you want me to re-run the live fetches, grant permission or run the example commands locally and paste outputs here; I will integrate them.
+
+```
